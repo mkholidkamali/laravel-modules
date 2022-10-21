@@ -1,0 +1,3 @@
+[submodule "laravel-submodule-blog"]
+	path = Modules/Blog
+	url = https://github.com/mkholidkamali/laravel-submodule-blog.git
